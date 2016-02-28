@@ -14,7 +14,7 @@ $m->SMTPAuth = true;
 //$m->SMTPDebug = 2;
 $m->Host = 'a2plcpnl0434.prod.iad2.secureserver.net';
 $m->Username = 'hr@1pointsys.com';
-$m->Password='Welc0me$123';
+$m->Password='****';
 $m->SMTPSecure = 'ssl';
 $m->Port = 465;
 
